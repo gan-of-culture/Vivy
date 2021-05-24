@@ -1,0 +1,12 @@
+{
+    "playlists": [
+        {
+            "id": "PUT YOUR PLAYLISTS ID HERE: https://www.youtube.com/watch?v=SlPhMPnQ58k&list=(PL4o29bINVT4EG_y-k5jGoOu3-Am8Nvi10) the thing in brackets is your id",
+            "name": "PLAYLIST NAME GOES HERE",
+            "author": "PLAYLIST AUTHOR HERE (OPTIONAL)",
+            "save_to_dir": "YOUR DOWNLOADED FILES WILL END UP IN THE DICTIONARY PATH THAT YOU PUT IN HERE",
+            "last_checked": "",
+            "entry_ids": []
+        }
+    ]
+}
