@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp9009078.png" />
 </p>
+
 # Vivy - Download new entries of youtube playlists
 
 This is a very simple script to download all new entries of playlists to your local machine.  
